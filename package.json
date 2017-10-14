@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/geoffreyLB/boilerPlate/issues"
   },
-  "homepage": "https://github.com/geoffreyLB/boilerPlate#readme"
+  "homepage": "https://github.com/geoffreyLB/boilerPlate#readme",
+  "devDependencies": {
+    "concurrently": "^3.5.0"
+  }
 }
